@@ -16,6 +16,7 @@ namespace benimsurucukursu
 
         public anaform()
         {
+
             InitializeComponent();
         }
 
